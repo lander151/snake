@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/lander/StudioProjects/SNAKE/app/build/intermediates/res/merged/debug/drawable_arriba.png.flat",
+        "source": "/home/lander/StudioProjects/SNAKE/app/src/main/res/drawable/arriba.png"
+    },
+    {
+        "merged": "/home/lander/StudioProjects/SNAKE/app/build/intermediates/res/merged/debug/drawable_casverde.png.flat",
+        "source": "/home/lander/StudioProjects/SNAKE/app/src/main/res/drawable/casverde.png"
+    },
+    {
+        "merged": "/home/lander/StudioProjects/SNAKE/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/home/lander/StudioProjects/SNAKE/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/lander/StudioProjects/SNAKE/app/build/intermediates/res/merged/debug/drawable_izquierda.png.flat",
+        "source": "/home/lander/StudioProjects/SNAKE/app/src/main/res/drawable/izquierda.png"
+    },
+    {
+        "merged": "/home/lander/StudioProjects/SNAKE/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/lander/StudioProjects/SNAKE/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/lander/StudioProjects/SNAKE/app/build/intermediates/res/merged/debug/drawable_derecha.png.flat",
+        "source": "/home/lander/StudioProjects/SNAKE/app/src/main/res/drawable/derecha.png"
+    },
+    {
+        "merged": "/home/lander/StudioProjects/SNAKE/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/home/lander/StudioProjects/SNAKE/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/lander/StudioProjects/SNAKE/app/build/intermediates/res/merged/debug/drawable_abajo.png.flat",
+        "source": "/home/lander/StudioProjects/SNAKE/app/src/main/res/drawable/abajo.png"
+    },
+    {
+        "merged": "/home/lander/StudioProjects/SNAKE/app/build/intermediates/res/merged/debug/layout_snake_layout.xml.flat",
+        "source": "/home/lander/StudioProjects/SNAKE/app/src/main/res/layout/snake_layout.xml"
+    },
+    {
+        "merged": "/home/lander/StudioProjects/SNAKE/app/build/intermediates/res/merged/debug/drawable_casroja.png.flat",
+        "source": "/home/lander/StudioProjects/SNAKE/app/src/main/res/drawable/casroja.png"
+    },
+    {
+        "merged": "/home/lander/StudioProjects/SNAKE/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/home/lander/StudioProjects/SNAKE/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    }
+]

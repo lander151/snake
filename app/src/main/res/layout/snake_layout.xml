@@ -1,0 +1,71 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent">
+  
+  <com.lander.snake.SerpienteView
+      android:id="@+id/snake"
+      android:layout_width="match_parent"
+      android:layout_height="344dp" />
+  
+  <RelativeLayout
+      android:layout_width="match_parent"
+      android:layout_height="match_parent" >
+    
+    <TextView
+     android:id="@+id/text"
+      android:text="@string/tvEstado"
+      android:visibility="visible"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_centerInParent="true"
+      android:gravity="center_horizontal"
+      android:textColor="#ff8888ff"
+      android:textSize="24sp"/>
+
+    <ImageButton
+        android:id="@+id/imageButton1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:onClick="onClickAbajo"
+        android:src="@drawable/abajo" />
+
+    <ImageButton
+        android:id="@+id/imageButton2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/imageButton1"
+        android:layout_toRightOf="@+id/imageButton1"
+        android:onClick="onClickArriba"
+        android:src="@drawable/arriba" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/imageButton2"
+        android:layout_alignParentRight="true"
+        android:onClick="onClickPausa"
+        android:text="PAUSA" />
+
+    <ImageButton
+        android:id="@+id/imageButton3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/button1"
+        android:layout_alignTop="@+id/imageButton2"
+        android:onClick="onClickDerecha"
+        android:src="@drawable/derecha" />
+
+    <ImageButton
+        android:id="@+id/imageButton4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button1"
+        android:layout_toLeftOf="@+id/button1"
+        android:onClick="onClickIzquierda"
+        android:src="@drawable/izquierda" />
+
+  </RelativeLayout>
+</FrameLayout>

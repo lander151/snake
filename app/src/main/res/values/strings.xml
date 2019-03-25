@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <string name="app_name">Snake</string>
+  <string name="estado_preparado">SNAKE\nTOCA PARA EMPEZAR</string>
+  <string name="estado_pausa">PAUSA\nTOCA PARA REANUDAR</string>
+  <string name="estado_perdido">GAME OVER\nPUNTUACIÓN: </string>
+  <string name="estado_perdido2">\nTOCA PARA VOLVER A JUGAR</string>
+
+  <string name="tvEstado"></string>
+</resources>
